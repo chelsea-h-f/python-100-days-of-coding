@@ -1,3 +1,3 @@
 # python-100-days-of-coding
 
-Project 1
+These are my projects from 100 Days of Code - The Complete Python Pro Bootcamp.
